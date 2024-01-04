@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marina 
 - 👀 I’m interested in programming language
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Prompt engineer | DataScience | Machine Learning  | Lisp
 
 <div align="center">
   <a href="https://github.com/marinamaarina">
