@@ -56,8 +56,8 @@ Transformo dados complexos em sistemas inteligentes, eficientes e escaláveis.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marinamaarina&show_icons=true&theme=dark&title_color=4B6F44&icon_color=4B6F44&text_color=ffffff&bg_color=000000"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinamaarina&layout=compact&title_color=4B6F44&text_color=ffffff&bg_color=000000"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marinamaarina&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinamaarina&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
