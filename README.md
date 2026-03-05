@@ -51,14 +51,6 @@ Transformo dados complexos em sistemas inteligentes, eficientes e escaláveis.
 ![Jupyter](https://img.shields.io/badge/Jupyter-4B6F44?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-355E3B?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marinamaarina&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinamaarina&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
